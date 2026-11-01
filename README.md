@@ -85,8 +85,8 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 
 # 2. Clone dari GitHub (ganti URL dengan repo kamu)
-git clone https://github.com/USERNAME/ai-trading-terminal.git
-cd ai-trading-terminal
+git clone https://github.com/batsm75/ai-analisis-v3
+cd ai-analisis-v3
 
 # 3. Install dependensi
 pip install -r requirements.txt
